@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POVTAS_1", "POVTAS_1\POVTAS_1.csproj", "{DCAAF416-CD36-4248-BB58-46B3EA4B9EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCAAF416-CD36-4248-BB58-46B3EA4B9EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAAF416-CD36-4248-BB58-46B3EA4B9EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAAF416-CD36-4248-BB58-46B3EA4B9EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAAF416-CD36-4248-BB58-46B3EA4B9EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
