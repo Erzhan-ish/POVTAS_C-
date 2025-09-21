@@ -4,6 +4,8 @@ internal abstract class main
 {
     static void Main()
     {
-        TrafficLight.Run();   
+          Ls_1.Name();
+          Ls_1.Calculator();
+          Ls_1.Course();
     }
 }
