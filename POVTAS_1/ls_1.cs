@@ -1,6 +1,6 @@
 namespace POVTAS_1
 {
-    public class Ls_1
+    public class Ls1
     {
         public static void Name()
         {
